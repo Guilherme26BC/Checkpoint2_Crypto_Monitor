@@ -11,10 +11,11 @@ O projeto consiste em um app para monitaramento de cryptomoeda, expecificamente 
 
 
 ### Imagens de funcionamento
-Antes de executar:
- - ![Api antes de executar.png](images/Api antes de executar.png)
-Pós execução:
- - ![Api depois de executar.png](images/Api depois de executar.png)
+ - Antes de executar:
+    ![Api antes de executar.png](images/Api antes de executar.png)
+
+ - Pós execução:
+    ![Api depois de executar.png](images/Api depois de executar.png)
 ### Orderm de explicação
 * TicketResponse.kt
 * MercadoBitcoinService.kt
