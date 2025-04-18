@@ -1,28 +1,35 @@
 # Checkpoint 2 Kotlin development
 Aluno: Guilherme Bezerra Carvalho
 RM: 550282
+
 Explicação das classes .kt do projeto android_crypto_monitor
 
 ### Descrição do projeto
 O projeto consiste em um app para monitaramento de cryptomoeda, expecificamente do Bitcoin, para isso utilizando-se de uma API.
 
 ### Ferramentas utilizadas
-- API do mercadoBitcoin.net
-
-
+- Kotlin
+- Gradle
+- Dependências
+    - Coroutines
+    - Retrofit2
+    -  Retrofit2 Gson converter
+- Api utilizada
+    - mercadoBitcoin.net
 ### Imagens de funcionamento
----
+---  
 ### Antes da execução
-  ![Api antes de executar.png](images%2FApi%20antes%20de%20executar.png)
-
----
+![Api antes de executar.png](images%2FApi%20antes%20de%20executar.png)
+  
+---  
 ### Pós execução
-   ![Api depois de executar.png](images%2FApi%20depois%20de%20executar.png)
+![Api depois de executar.png](images%2FApi%20depois%20de%20executar.png)
 ### Orderm de explicação
-* TicketResponse.kt
-* MercadoBitcoinService.kt
-* MercadoBitcoinServiceFactory.kt
-* MainActivity.kt
+* [TicketResponse.kt](#ticketresponsekt)
+* [MercadoBitcoinService.kt](#mercadobitcoinservicekt)
+* [MercadoBitcoinServiceFactory.kt](#mercadobitcoinservicefactorykt)
+* [MainActivity.kt](#mainactivitykt)
+
 
 
 ## TicketResponse.kt
