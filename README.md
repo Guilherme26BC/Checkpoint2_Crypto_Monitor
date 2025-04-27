@@ -24,7 +24,7 @@ O projeto consiste em um app para monitaramento de cryptomoeda, expecificamente 
 ---  
 ### Pós execução
 ![Api depois de executar.png](images%2FApi%20depois%20de%20executar.png)
-### Orderm de explicação
+### Ordem de explicação
 * [TicketResponse.kt](#ticketresponsekt)
 * [MercadoBitcoinService.kt](#mercadobitcoinservicekt)
 * [MercadoBitcoinServiceFactory.kt](#mercadobitcoinservicefactorykt)
